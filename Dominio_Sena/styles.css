@@ -1,0 +1,41 @@
+body{
+    display: grid;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+
+
+
+header{
+    border: 1px black solid;
+   
+    padding: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+header:hover{
+    color: red;
+    cursor: pointer;
+    border: none;
+}
+
+
+h3,p{
+    text-align: center;
+    
+    
+}
+
+h3{
+    text-decoration: line-through;
+}
+
+
+img{
+   margin: 0 auto;
+   display: none;
+}
